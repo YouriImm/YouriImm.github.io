@@ -20,7 +20,7 @@ ___
 > Relevant links: 
 > - [Repository](https://github.com/YouriImm/RWS-Water-Analysis)
 > - [Report (Dutch)](https://www.google.nl)
-> - [Python Data Cleaning](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Data%20Cleaning.ipynb "Jupyter Notebook"); [Python Code](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Chlorophyll%20A%20vs%20chemicals%20-%20code%20only.ipynb); [R Time Series (Comments in Dutch)](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Chlorofyl%20Time%20Series.Rmd)
+> - [Python Data Cleaning](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Data%20Cleaning.ipynb "Jupyter Notebook"); [Python Code](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Chlorophyll%20A%20vs%20chemicals%20-%20code%20only.ipynb "Jupyter Notebook"); [R Time Series (Dutch)](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Chlorofyl%20Time%20Series.Rmd "R Markdown")
 > - [Visualizations](https://github.com/YouriImm/RWS-Water-Analysis/tree/master/img "PNG image folder")
 
 
