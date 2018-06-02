@@ -8,7 +8,24 @@ ___
 > Relevant links: 
 > - [Repository](https://github.com/YouriImm/Earthquakes)
 > - [Python code](https://github.com/YouriImm/Earthquakes/blob/master/Earthquakes_code_only.ipynb "Jupyter Notebook")
-> - [Visualizations](https://github.com/YouriImm/Earthquakes/tree/master/img "PNG images")
+> - [Visualizations](https://github.com/YouriImm/Earthquakes/tree/master/img "PNG image folder")
+
+
+___
+
+
+**May 2018: 'Rijkswaterstaat' water  analysis**
+
+- Research project on chlorophyll and water quality, based on data from [Rijkswaterstaat](https://www.rijkswaterstaat.nl "Rijkswaterstaat"). Mostly in Dutch. 
+> Relevant links: 
+> - [Repository](https://github.com/YouriImm/RWS-Water-Analysis)
+> - [Report (Dutch))(https://www.google.nl)
+> > Code: 
+> > - [Python Data Cleaning](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Data%20Cleaning.ipynb "Jupyter Notebook")
+> > - [Python Code](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Chlorophyll%20A%20vs%20chemicals%20-%20code%20only.ipynb)
+> > - [R Time Series (Comments in Dutch)](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Chlorofyl%20Time%20Series.Rmd)
+> - [Visualizations](https://github.com/YouriImm/RWS-Water-Analysis/tree/master/img "PNG image folder")
+
 
 
 ## Challenges
@@ -21,4 +38,4 @@ ___
 > Relevant links: 
 > - [Repository](https://github.com/YouriImm/DrivenData---Blood-Donations)
 > - [Python code](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/code/Final%20-%20Logistic%20Regression.ipynb "Jupyter Notebook")
-> - [Proof of rank](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/img/DD_results.PNG?raw=true "PNG images")
+> - [Proof of rank](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/img/DD_results.PNG?raw=true "PNG image")
