@@ -21,4 +21,4 @@ ___
 > Relevant links: 
 > - [Repository](https://github.com/YouriImm/DrivenData---Blood-Donations)
 > - [Python code](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/code/Final%20-%20Logistic%20Regression.ipynb "Jupyter Notebook")
-> - [Proof of rank](https://github.com/YouriImm/DrivenData---Blood-Donations/tree/master/img/DD_results.png "PNG images")
+> - [Proof of rank](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/img/DD_results.PNG?raw=true "PNG images")
