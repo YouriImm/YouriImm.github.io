@@ -19,7 +19,7 @@ ___
 - Research project on chlorophyll and water quality, based on data from [Rijkswaterstaat](https://www.rijkswaterstaat.nl "Rijkswaterstaat"). Mostly in Dutch. 
 > Relevant links: 
 > - [Repository](https://github.com/YouriImm/RWS-Water-Analysis)
-> - [Report (Dutch))(https://www.google.nl)
+> - [Report (Dutch)](https://www.google.nl)
 > > Code: 
 > > - [Python Data Cleaning](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Data%20Cleaning.ipynb "Jupyter Notebook")
 > > - [Python Code](https://github.com/YouriImm/RWS-Water-Analysis/blob/master/code/Chlorophyll%20A%20vs%20chemicals%20-%20code%20only.ipynb)
