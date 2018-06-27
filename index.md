@@ -36,3 +36,15 @@ ___
 > - [Repository](https://github.com/YouriImm/DrivenData---Blood-Donations)
 > - [Python code](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/code/Final%20-%20Logistic%20Regression.ipynb "Jupyter Notebook")
 > - [Proof of rank](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/img/DD_results.PNG?raw=true "PNG image")
+
+
+___
+
+
+**June 2018: Tumor prediction flash challenge**
+
+- Practice challenge. Implementation of machine learning workflows in Keras and PySpark.
+> Relevant links: 
+> - [Repository](https://github.com/YouriImm/Flash-Challenge---Tumor-Prediction)
+> - [Keras neural network](https://github.com/YouriImm/Flash-Challenge---Tumor-Prediction/blob/master/code/Keras%20NN%20Cancer%20Data.ipynb "Jupyter Notebook")
+> - [PySpark random forest classifier](https://github.com/YouriImm/Flash-Challenge---Tumor-Prediction/blob/master/code/Spark%20ML%20Cancer%20Data.ipynb "Jupyter Notebook")
