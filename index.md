@@ -41,7 +41,7 @@ ___
 ___
 
 
-**June 2018: Tumor prediction flash challenge**
+**Tumor prediction flash challenge**
 
 - Practice challenge. Implementation of machine learning workflows in Keras and PySpark.
 > Relevant links: 
