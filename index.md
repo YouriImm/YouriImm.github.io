@@ -1,6 +1,43 @@
-## Projects
+## Challenges
 ___
 
+**DrivenData: Water Pumps**
+
+- Machine Learning and EDA to predict water pump functionality. Hosted by [DrivenData](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table "Driven Data"). Rank 1338/5467.
+> Relevant links: 
+> - [Repository](https://github.com/YouriImm/DrivenData---Water-Pumps)
+> - [Python code](https://github.com/YouriImm/DrivenData---Water-Pumps/tree/master/code "Two notebooks")
+> - [Proof of rank](https://github.com/YouriImm/DrivenData---Water-Pumps/blob/master/img/DD_results.PNG?raw=true "PNG image")
+
+
+___
+**DrivenData: Predicting Blood Donations**
+
+- Machine Learning testcase to predict recurring blood donations. Hosted by [DrivenData](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/ "Driven Data"). Rank 395/4353.
+> Relevant links: 
+> - [Repository](https://github.com/YouriImm/DrivenData---Blood-Donations)
+> - [Python code](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/code/Final%20-%20Logistic%20Regression.ipynb "Jupyter Notebook")
+> - [Proof of rank](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/img/DD_results.PNG?raw=true "PNG image")
+
+
+___
+
+
+**Tumor prediction flash challenge**
+
+- Practice challenge. Implementation of machine learning workflows in Keras and PySpark.
+> Relevant links: 
+> - [Repository](https://github.com/YouriImm/Flash-Challenge---Tumor-Prediction)
+> - [Keras neural network](https://github.com/YouriImm/Flash-Challenge---Tumor-Prediction/blob/master/code/Keras%20NN%20Cancer%20Data.ipynb "Jupyter Notebook")
+> - [PySpark random forest classifier](https://github.com/YouriImm/Flash-Challenge---Tumor-Prediction/blob/master/code/Spark%20ML%20Cancer%20Data.ipynb "Jupyter Notebook")
+
+
+___
+
+
+
+## Projects
+___
 
 **March 2018: Earthquake Analysis**
 
@@ -25,29 +62,3 @@ ___
 
 
 
-## Challenges
-___
-
-
-**DrivenData: Predicting Blood Donations**
-
-- Machine Learning testcase to predict recurring blood donations. Hosted by [DrivenData](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/ "Driven Data"). Rank 395/4353.
-> Relevant links: 
-> - [Repository](https://github.com/YouriImm/DrivenData---Blood-Donations)
-> - [Python code](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/code/Final%20-%20Logistic%20Regression.ipynb "Jupyter Notebook")
-> - [Proof of rank](https://github.com/YouriImm/DrivenData---Blood-Donations/blob/master/img/DD_results.PNG?raw=true "PNG image")
-
-
-___
-
-
-**Tumor prediction flash challenge**
-
-- Practice challenge. Implementation of machine learning workflows in Keras and PySpark.
-> Relevant links: 
-> - [Repository](https://github.com/YouriImm/Flash-Challenge---Tumor-Prediction)
-> - [Keras neural network](https://github.com/YouriImm/Flash-Challenge---Tumor-Prediction/blob/master/code/Keras%20NN%20Cancer%20Data.ipynb "Jupyter Notebook")
-> - [PySpark random forest classifier](https://github.com/YouriImm/Flash-Challenge---Tumor-Prediction/blob/master/code/Spark%20ML%20Cancer%20Data.ipynb "Jupyter Notebook")
-
-
-___
